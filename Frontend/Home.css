@@ -10,8 +10,8 @@ body{
 
 .navbar{
     background-color: #282828;
-    border:1px solid #333333;
-    height: 52px;
+    border:1px solid #575353;
+    height: 55px;
     width:100vw;
     position:relative;
     margin: 0;
@@ -28,13 +28,14 @@ body{
 
 .logo{
     height: 29.5px;
+    margin-left: 25px;
 }
 
 .left-nav ul{
     display: flex;
     justify-content:flex-start;
     padding: 0;
-    padding-top: 7px;
+    padding-top: 10px;
 }
 
 .left-nav li{
